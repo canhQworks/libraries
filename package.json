@@ -1,11 +1,12 @@
 {
-  "name": "@qworks/qworks-timeline-lib",
+  "name": "@canhQworks/libraries",
   "version": "0.0.1",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "files": [
     "dist"
   ],
+  "repository": "git://github.com/canhQworks/libraries.git",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
